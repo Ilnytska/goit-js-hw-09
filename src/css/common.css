@@ -16,20 +16,11 @@ img {
   display: block;
   max-width: 100%;
 }
-input {
-  width: 500px;
-  height: 30px;
-}
-button {
-  width: 100px;
-  height: 30px;
-  background-color:darkseagreen;
-  border-radius: 4px;
-}
 .timer {
+  width: 750px;
   display: flex;
   flex-direction: row;
-  margin-right: 20px;
+  justify-content: space-between;
 
 }
 .value {
