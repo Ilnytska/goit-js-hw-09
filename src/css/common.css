@@ -16,3 +16,27 @@ img {
   display: block;
   max-width: 100%;
 }
+input {
+  width: 500px;
+  height: 30px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  background-color:darkseagreen;
+  border-radius: 4px;
+}
+.timer {
+  display: flex;
+  flex-direction: row;
+  margin-right: 20px;
+
+}
+.value {
+font-size: 50px;
+color:darkred
+}
+.label {
+  font-size: 40px;
+  color:darkslategray;
+}
